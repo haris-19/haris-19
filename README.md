@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Mohammad Haris. 💡 Full-Stack Developer | 🔍 Curious Coder | 🎨 Design Dreamer</h1>
 <h3 align="center">Passionate about Python, Django, and turning ideas into reality. From OOP-based ATM systems to pixel-perfect web clones, I merge tech and creativity. Exploring the endless possibilities of code.</h3>
 
